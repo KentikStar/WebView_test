@@ -4,7 +4,7 @@ ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launc
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-70:12
+MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-80:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a23c22e46ab19f5a689b384ec4380335\jetified-firebase-analytics-unity-10.0.1\AndroidManifest.xml:3:1-8:12
@@ -15,6 +15,7 @@ MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\cac
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:3:1-8:12
+MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:2:1-11:12
 MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
@@ -38,8 +39,8 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenti\
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -51,6 +52,7 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenti\.gradle\
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
@@ -86,8 +88,8 @@ ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launc
 		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
 application
 ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
-MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-68:19
-MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-68:19
+MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
+MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
@@ -120,14 +122,14 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 	android:icon
@@ -158,6 +160,8 @@ MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:7:3-41
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:7:3-41
+MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
 MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
 MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
@@ -204,10 +208,10 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kent
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
@@ -230,6 +234,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -307,7 +313,7 @@ ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mon
 	android:launchMode
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-47
 	android:resizeableActivity
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
 	android:configChanges
@@ -368,6 +374,22 @@ ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mon
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
 	android:name
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+provider#androidx.core.content.FileProvider
+ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-77:20
+	android:grantUriPermissions
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-47
+	android:authorities
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-88
+	android:exported
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-76:76
+	android:resource
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:17-73
+	android:name
+		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:17-67
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 	android:exported

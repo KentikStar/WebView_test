@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - SampleWebView
     - test
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -86,25 +87,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1792}
+      Script: {instanceID: 1800}
     - Class: 114
-      Script: {instanceID: 2414}
+      Script: {instanceID: 2422}
     - Class: 114
-      Script: {instanceID: 2928}
+      Script: {instanceID: 2938}
     - Class: 114
-      Script: {instanceID: 3194}
+      Script: {instanceID: 3204}
     - Class: 114
-      Script: {instanceID: 4850}
+      Script: {instanceID: 4864}
     - Class: 114
-      Script: {instanceID: 5194}
+      Script: {instanceID: 5210}
     - Class: 114
-      Script: {instanceID: 6124}
+      Script: {instanceID: 6140}
     - Class: 114
-      Script: {instanceID: 6866}
+      Script: {instanceID: 6884}
     - Class: 114
-      Script: {instanceID: 7068}
+      Script: {instanceID: 7086}
     - Class: 114
-      Script: {instanceID: 7488}
+      Script: {instanceID: 7508}
+    - Class: 114
+      Script: {instanceID: 8176}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -150,7 +153,7 @@ ScriptsOnlyBuild:
     className: UnityOnScrollbarValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 7766450c254acc9c43bc4b7046feb32a
+      Hash: c77830f8285771a09eb5d73cc1ac8ce1
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: test
@@ -232,6 +235,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.PixelPerfect.dll
     namespaceName: UnityEngine.U2D
     className: CinemachinePixelPerfect
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: WebViewObject
   - hash:
       serializedVersion: 2
       Hash: c1d728126ff1918728036c59106d32b2
@@ -870,6 +879,12 @@ ScriptsOnlyBuild:
     className: RuleTile
   - hash:
       serializedVersion: 2
+      Hash: 217c791e8205919387e350278600d6ea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SampleWebView
+  - hash:
+      serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -1060,6 +1075,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0bc20ca281dcdafb1daf0083c6a6f335
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PluginTest
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity

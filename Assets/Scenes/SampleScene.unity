@@ -339,6 +339,7 @@ GameObject:
   - component: {fileID: 483021935}
   - component: {fileID: 483021934}
   - component: {fileID: 483021938}
+  - component: {fileID: 483021939}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -443,6 +444,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modeltxt: {fileID: 1993041635}
   SIMtxt: {fileID: 400883997}
+  fb_GUISkin: {fileID: 0}
+--- !u!114 &483021939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483021933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2677586ff7f0507449b942596d0e08eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Url: https://vk.com
+  status: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -493,7 +509,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 15
   field of view: 60
   orthographic: 1
   orthographic size: 5

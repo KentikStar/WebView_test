@@ -34,8 +34,10 @@ dependencies {
     //google
     //classpath 'com.google.gms:google-services:4.3.13'
 // Android Resolver Dependencies End
+    implementation(name: 'WebViewPlugin', ext:'aar')
     implementation project('FirebaseApp.androidlib')
 
+    implementation 'androidx.core:core:1.6.0'
 }
 
 // Android Resolver Exclusions Start
@@ -83,6 +85,7 @@ android {
         doNotStrip '*/armeabi-v7a/*.so'
     }
 }
+
 
 
 
