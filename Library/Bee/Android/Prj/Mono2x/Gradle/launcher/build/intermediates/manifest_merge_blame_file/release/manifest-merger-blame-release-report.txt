@@ -1,0 +1,248 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="kursik.com.firebase.Android"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+20    <uses-feature
+20-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+22        android:required="false" />
+22-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+24-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+25-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
+26
+27    <uses-feature
+27-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+28        android:name="android.hardware.touchscreen"
+28-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-52
+29        android:required="false" />
+29-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+30    <uses-feature
+30-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+31        android:name="android.hardware.touchscreen.multitouch"
+31-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-63
+32        android:required="false" />
+32-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+33    <uses-feature
+33-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-28:36
+34        android:name="android.hardware.touchscreen.multitouch.distinct"
+34-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-72
+35        android:required="false" />
+35-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
+36
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+37-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
+38    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+38-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+38-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+39-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+40
+41    <application
+41-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:24:18-86
+43        android:extractNativeLibs="true"
+43-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
+44        android:icon="@mipmap/app_icon"
+44-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+45        android:label="@string/app_name" >
+45-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+46        <activity
+46-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-51:20
+47            android:name="com.unity3d.player.UnityPlayerActivity"
+47-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
+48            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+48-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
+49            android:hardwareAccelerated="false"
+49-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+50            android:launchMode="singleTask"
+50-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+51            android:resizeableActivity="false"
+51-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+52            android:screenOrientation="fullUser"
+52-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-49
+53            android:theme="@style/UnityThemeSelector" >
+53-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+54            <intent-filter>
+54-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+55-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+57-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+58            </intent-filter>
+59
+60            <meta-data
+60-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+61                android:name="unityplayer.UnityActivity"
+61-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+62                android:value="true" />
+62-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+63            <meta-data
+63-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+64                android:name="android.notch_support"
+64-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+65                android:value="true" />
+65-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+66        </activity>
+67
+68        <meta-data
+68-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+69            android:name="unity.splash-mode"
+69-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+70            android:value="0" />
+70-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+71        <meta-data
+71-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+72            android:name="unity.splash-enable"
+72-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+73            android:value="True" />
+73-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+74        <meta-data
+74-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+75            android:name="unity.launch-fullscreen"
+75-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+76            android:value="True" />
+76-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+77        <meta-data
+77-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
+78            android:name="unity.allow-resizable-window"
+78-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
+79            android:value="False" />
+79-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
+80        <meta-data
+80-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
+81            android:name="notch.config"
+81-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+82            android:value="portrait|landscape" />
+82-->[:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+83
+84        <activity
+84-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+85            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+85-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+86            android:exported="false"
+86-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+87-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+88
+89        <service
+89-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:28:9-34:19
+90            android:name="com.google.firebase.components.ComponentDiscoveryService"
+90-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:29:13-84
+91            android:directBootAware="true"
+91-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+92            android:exported="false" >
+92-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:30:13-37
+93            <meta-data
+93-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:31:13-33:85
+94                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+94-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:32:17-117
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:33:17-82
+96            <meta-data
+96-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+97                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+97-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:13:13-15:85
+100                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+100-->[com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:14:17-109
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:15:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:18:13-20:85
+103                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+103-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:19:17-127
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:20:17-82
+105        </service>
+106
+107        <provider
+107-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+108            android:name="com.google.firebase.provider.FirebaseInitProvider"
+108-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+109            android:authorities="kursik.com.firebase.Android.firebaseinitprovider"
+109-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+110            android:directBootAware="true"
+110-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+111            android:exported="false"
+111-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+112            android:initOrder="100" />
+112-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+113
+114        <receiver
+114-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+115            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+115-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+116            android:enabled="true"
+116-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+117            android:exported="false" >
+117-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+118        </receiver>
+119
+120        <service
+120-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+121            android:name="com.google.android.gms.measurement.AppMeasurementService"
+121-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+122            android:enabled="true"
+122-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+123            android:exported="false" />
+123-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+124        <service
+124-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+125            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+125-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+126            android:enabled="true"
+126-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+127            android:exported="false"
+127-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+128            android:permission="android.permission.BIND_JOB_SERVICE" />
+128-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+129
+130        <meta-data
+130-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+131            android:name="com.google.android.gms.version"
+131-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+132            android:value="@integer/google_play_services_version" />
+132-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+133    </application>
+134
+135</manifest>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "745537079372",
+    "project_id": "testfirebase-11840",
+    "storage_bucket": "testfirebase-11840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745537079372:android:b2f1fa334d3b7c4120cce9",
+        "android_client_info": {
+          "package_name": "kursik.com.firebase.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745537079372-7kfgiv8a7ovbd8eo3d7qodi22oq9v2ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdPhoyHiYvNSmoVxj8Ap8lLlgMDy1nxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745537079372-7kfgiv8a7ovbd8eo3d7qodi22oq9v2ff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745537079372-0foch9gpuf5kji50bglfk0cm7dr82fq4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kursik.com.firebase.iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
