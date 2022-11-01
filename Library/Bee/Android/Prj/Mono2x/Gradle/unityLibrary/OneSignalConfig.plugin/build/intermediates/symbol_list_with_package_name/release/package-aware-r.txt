@@ -1,0 +1,4 @@
+com.onesignal.onesignalsdk
+drawable ic_onesignal_large_icon_default
+drawable ic_stat_onesignal_default
+raw notification

@@ -311,6 +311,9 @@
 -r:"D:/Work/Unity/Kursik_test/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -r:"D:/Work/Unity/Kursik_test/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp-firstpass.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/OneSignal.Core.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/OneSignal.UnityPackage.Attribution.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/OneSignal.UnityPackage.Example.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.2D.Animation.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.2D.Common.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.2D.IK.Runtime.ref.dll"
@@ -329,8 +332,10 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
+"Assets/LoginInspector.cs"
 "Assets/Scripts/PluginTest.cs"
 "Assets/Scripts/SampleWebView.cs"
+"Assets/Scripts/SaveSerial.cs"
 "Assets/Scripts/test.cs"
 -langversion:9.0
 

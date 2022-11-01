@@ -7,7 +7,7 @@
 7    <uses-sdk
 8        android:minSdkVersion="1"
 8-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
-9        android:targetSdkVersion="9" />
+9        android:targetSdkVersion="10" />
 9-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\AndroidManifest.xml
 10
 11</manifest>

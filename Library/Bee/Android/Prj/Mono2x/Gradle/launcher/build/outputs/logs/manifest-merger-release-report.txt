@@ -5,6 +5,7 @@ INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\la
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-80:12
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:2:1-143:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a23c22e46ab19f5a689b384ec4380335\jetified-firebase-analytics-unity-10.0.1\AndroidManifest.xml:3:1-8:12
@@ -12,12 +13,17 @@ MERGED from [com.google.firebase:firebase-app-unity:10.0.1] C:\Users\Kenti\.grad
 MERGED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:17:1-58:12
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:3:1-8:12
 MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:2:1-11:12
 MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unityLibrary:OneSignalConfig.plugin] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\build\intermediates\library_manifest\release\AndroidManifest.xml:6:1-15:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fc328c00aea556b26121c931029ac48f\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:17:1-46:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\213eec922ba8df30299859d698821a4c\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:17:1-25:12
@@ -28,30 +34,52 @@ MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Us
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dabce0ab56ec60697c260429a4f81a09\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\de524faeb365434cb91ee299fc27d210\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b473e62df626c1eb4bbfbc172801cf02\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f868218913368b22b69be884c506cecf\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e5032859ae7ba6f770b5c062d92a010c\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\041eebdbc15d66bf63f18b3328a88719\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\264e47a1c649fc4b186df2389f9cad60\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\1250882cbcc7c8612a5eb6f51d663ec3\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e55b45934c6f99127a5c14f83b8c12da\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05b708a0ce816cf205921dc729683a44\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\50e40fbdfee66ef5e598342896004cc2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fdd76adb4d146adcecf6e119bc7ac017\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
@@ -90,6 +118,8 @@ application
 ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
 MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
 MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-78:19
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:48:5-141:19
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:48:5-141:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
@@ -100,10 +130,16 @@ MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Use
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fc328c00aea556b26121c931029ac48f\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fc328c00aea556b26121c931029ac48f\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
@@ -122,10 +158,20 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
 MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
 	android:appComponentFactory
@@ -140,6 +186,8 @@ INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\la
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
 MERGED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7f8936176cc042a8ba7fd49ee122b578\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
@@ -154,18 +202,28 @@ MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Use
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:7:3-41
 MERGED from [com.google.firebase:firebase-config-unity:10.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\45dd01b3200049ae4cab7d6b46d99a79\jetified-firebase-config-unity-10.0.1\AndroidManifest.xml:7:3-41
 MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
 MERGED from [:WebViewPlugin:] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\369806cf908a55bcca7d74314b7d4739\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
-MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
-MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:40
+MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:FirebaseApp.androidlib] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\FirebaseApp.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:OneSignalConfig.plugin] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityLibrary:OneSignalConfig.plugin] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-13:41
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\468181d8ad06a12c3d8e4f1573a5e141\jetified-firebase-installations-interop-17.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fc328c00aea556b26121c931029ac48f\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fc328c00aea556b26121c931029ac48f\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\eb995569b037619842f42370bc396b38\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
@@ -186,20 +244,34 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f03d50c6756dfe7630a18fa2b6857036\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\de524faeb365434cb91ee299fc27d210\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\de524faeb365434cb91ee299fc27d210\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b473e62df626c1eb4bbfbc172801cf02\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b473e62df626c1eb4bbfbc172801cf02\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f868218913368b22b69be884c506cecf\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f868218913368b22b69be884c506cecf\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e5032859ae7ba6f770b5c062d92a010c\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e5032859ae7ba6f770b5c062d92a010c\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\041eebdbc15d66bf63f18b3328a88719\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\041eebdbc15d66bf63f18b3328a88719\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
@@ -208,32 +280,62 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kent
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.6.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\core-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\9d31799099672c52461efb49150471e1\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\264e47a1c649fc4b186df2389f9cad60\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\264e47a1c649fc4b186df2389f9cad60\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\1250882cbcc7c8612a5eb6f51d663ec3\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\1250882cbcc7c8612a5eb6f51d663ec3\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e55b45934c6f99127a5c14f83b8c12da\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e55b45934c6f99127a5c14f83b8c12da\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05b708a0ce816cf205921dc729683a44\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05b708a0ce816cf205921dc729683a44\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\50e40fbdfee66ef5e598342896004cc2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\50e40fbdfee66ef5e598342896004cc2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fdd76adb4d146adcecf6e119bc7ac017\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\fdd76adb4d146adcecf6e119bc7ac017\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
@@ -258,34 +360,52 @@ ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mon
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
 ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:16:5-67
 MERGED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
 uses-feature#android.hardware.touchscreen
@@ -390,6 +510,296 @@ ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mon
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:17-73
 	android:name
 		ADDED from [:unityLibrary] D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:17-67
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:8:9-63
+permission#kursik.com.firebase.Android.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:11:22-76
+uses-permission#kursik.com.firebase.Android.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\54bada1ec6d3427f82c0b4637e5af579\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:29:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:46:22-86
+receiver#com.onesignal.FCMBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:49:9-60:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:52:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:50:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:55:13-59:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:55:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:kursik.com.firebase.Android
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:55:13-59:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:55:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:56:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:56:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:58:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:58:27-58
+category#kursik.com.firebase.Android
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:58:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:58:27-58
+service#com.onesignal.HmsMessageServiceOneSignal
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:62:9-68:19
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:63:13-68
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:65:13-67:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:66:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:66:25-78
+activity#com.onesignal.NotificationOpenedActivityHMS
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:70:9-78:20
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:73:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:72:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:74:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:71:13-71
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:75:13-77:29
+action#android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:76:25-66
+service#com.onesignal.FCMIntentService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:80:9-82:40
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:81:13-58
+service#com.onesignal.FCMIntentJobService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:83:9-86:72
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:85:13-37
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:84:13-61
+service#com.onesignal.FocusDelaySyncService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:87:9-90:43
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:89:13-37
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:90:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:88:13-63
+service#com.onesignal.FocusDelaySyncJobService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:91:9-94:72
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:93:13-37
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:94:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:92:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:95:9-98:43
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:97:13-37
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:98:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:96:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:99:9-102:72
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:101:13-37
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:102:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:100:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:104:9-107:75
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:106:13-37
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:107:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:105:13-61
+receiver#com.onesignal.NotificationDismissReceiver
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:109:9-111:39
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:111:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:110:13-69
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:112:9-119:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:114:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:113:13-56
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:115:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:116:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:116:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:117:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:117:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:120:9-126:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:122:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:121:13-57
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:123:13-125:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:124:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:124:25-81
+activity#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:128:9-134:75
+	android:excludeFromRecents
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:130:13-46
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:132:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:131:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:134:13-72
+	android:taskAffinity
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:133:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:129:13-68
+activity#com.onesignal.NotificationOpenedReceiverAndroid22AndOlder
+ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:135:9-140:75
+	android:excludeFromRecents
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:137:13-46
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:139:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:138:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:140:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.6.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\ffe5234abee024052903713cfac3cd34\jetified-OneSignal-4.6.5\AndroidManifest.xml:136:13-85
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -404,8 +814,12 @@ MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Use
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:12:9-16:19
 MERGED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
 MERGED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
 	android:exported
@@ -422,16 +836,6 @@ ADDED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\c
 		ADDED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:33:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-config:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\3d9f6ef7e966cb179ab46cb8aefdbfe8\jetified-firebase-config-21.2.0\AndroidManifest.xml:32:17-117
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0111c8dda60c1d624bcc3d8ba8a4e865\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\49417e4536553aa443ec2cdf69bfb2e1\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
 uses-permission#com.google.android.gms.permission.AD_ID
 ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\0c44deff628cbecc367d1696302653b5\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\e0fb27e2bac4e0f098be0c0879ac09ba\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
@@ -454,12 +858,50 @@ ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\cach
 		ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:15:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-abt:21.0.2] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f833bfcf569fd0549bc8fa2bf4a9d6fe\jetified-firebase-abt-21.0.2\AndroidManifest.xml:14:17-109
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:32:13-34:29
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:45:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:46:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:46:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\b7c1f34488effdb5021a0e0e065a8e81\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
 ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:18:13-20:85
 	android:value
 		ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:20:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-installations:17.0.3] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\c4baee45ad780f85bc322d5f56743607\jetified-firebase-installations-17.0.3\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\f4dadf5d3825327753cd0a8ee0c40ac3\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\871a414998c122775a0078aa4ea8ac26\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
 	android:authorities
@@ -510,3 +952,255 @@ ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti
 		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\39c47372d5728d9bd74034b6d9477e39\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\05559dfd84c7b6287a42a503d123c05b\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\a0d24e3e78899cc1eb4c72843fb55412\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kenti\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

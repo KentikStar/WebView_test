@@ -44,3 +44,12 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.29 to 1.1.31
   com.unity.timeline from version 1.6.2 to 1.6.4
   com.unity.visualscripting from version 1.7.2 to 1.7.8
+
+=== Tue Nov  1 03:12:27 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.toolchain.macos-x86_64-linux-x86_64@0.1.22-preview
+  com.unity.toolchain.win-x86_64-linux-x86_64@0.1.21-preview

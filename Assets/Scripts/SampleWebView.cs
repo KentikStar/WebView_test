@@ -33,6 +33,8 @@ public class SampleWebView : MonoBehaviour
 
     IEnumerator Start()
     {
+        LoadLocalURL();
+
         webViewObject = (new GameObject("WebViewObject")).AddComponent<WebViewObject>();
         webViewObject.Init(
             cb: (msg) =>
@@ -195,6 +197,14 @@ public class SampleWebView : MonoBehaviour
         }
 #endif
         yield break;
+    }
+
+    private void LoadLocalURL(){
+      SaveSerial saveSerial = new SaveSerial();
+      LocalData localData;
+      saveSerial.LoadLocalData(out localData);
+
+      Url = localData.PathURL;
     }
 
     public void BackUrl(){

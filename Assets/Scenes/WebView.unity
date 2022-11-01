@@ -634,7 +634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2677586ff7f0507449b942596d0e08eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Url: https://vk.com
+  Url: 
   status: {fileID: 0}
 --- !u!1 &963976617
 GameObject:

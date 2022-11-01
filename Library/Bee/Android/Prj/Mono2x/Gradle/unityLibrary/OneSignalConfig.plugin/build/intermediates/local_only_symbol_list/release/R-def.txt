@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_onesignal_large_icon_default
+drawable ic_stat_onesignal_default
+raw notification
