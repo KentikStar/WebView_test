@@ -1,4 +1,4 @@
-#Tue Nov 01 01:29:00 MSK 2022
+#Tue Nov 01 02:04:11 MSK 2022
 base.0=D\:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

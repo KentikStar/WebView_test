@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-firstpass.dll:
+    - WebViewObject
     Assembly-CSharp.dll:
     - SampleWebView
     - test
@@ -38,8 +40,10 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
   serializedClasses:
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
@@ -57,17 +61,33 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Style
     - TMPro.VertexGradient
     UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
     - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
     UnityEngine.TextCoreFontEngineModule:
     - UnityEngine.TextCore.FaceInfo
     - UnityEngine.TextCore.Glyph
     - UnityEngine.TextCore.GlyphMetrics
     - UnityEngine.TextCore.GlyphRect
     UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-  methodsToPreserve: []
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.SpriteState
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: SampleWebView
+    methodName: ForwardUrl
+  - assembly: Assembly-CSharp-firstpass
+    fullTypeName: WebViewObject
+    methodName: Reload
+  - assembly: Assembly-CSharp
+    fullTypeName: SampleWebView
+    methodName: BackUrl
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/WebView.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -87,27 +107,33 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 1690}
+    - Class: 114
       Script: {instanceID: 1800}
     - Class: 114
-      Script: {instanceID: 2422}
+      Script: {instanceID: 2424}
     - Class: 114
-      Script: {instanceID: 2938}
+      Script: {instanceID: 2566}
     - Class: 114
-      Script: {instanceID: 3204}
+      Script: {instanceID: 2940}
     - Class: 114
-      Script: {instanceID: 4864}
+      Script: {instanceID: 3206}
     - Class: 114
-      Script: {instanceID: 5210}
+      Script: {instanceID: 3570}
     - Class: 114
-      Script: {instanceID: 6140}
+      Script: {instanceID: 4866}
     - Class: 114
-      Script: {instanceID: 6884}
+      Script: {instanceID: 5212}
     - Class: 114
-      Script: {instanceID: 7086}
+      Script: {instanceID: 6142}
     - Class: 114
-      Script: {instanceID: 7508}
+      Script: {instanceID: 6886}
     - Class: 114
-      Script: {instanceID: 8176}
+      Script: {instanceID: 7088}
+    - Class: 114
+      Script: {instanceID: 7510}
+    - Class: 114
+      Script: {instanceID: 8178}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -199,6 +225,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnTriggerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0bc20ca281dcdafb1daf0083c6a6f335
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PluginTest
   - hash:
       serializedVersion: 2
       Hash: 800c50acba124432abb4cf0d47202e06
@@ -1075,13 +1107,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 0bc20ca281dcdafb1daf0083c6a6f335
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PluginTest
   platform: 13
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Scenes/WebView.unity
   playerPath: C:/Users/Kenti/Desktop/test.apk

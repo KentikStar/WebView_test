@@ -665,11 +665,11 @@ public class WebViewObject : MonoBehaviour
         int width = (int)(Screen.width - (ml + mr));
         int height = (int)(Screen.height - (mb + mt)); // no
         _CWebViewPlugin_SetRect(webView, width, height);
-        rect = new Rect(left, 10, width, height); // bottom 
+        rect = new Rect(0, 0, width, height); //left, bottom 
 #elif UNITY_IPHONE
         _CWebViewPlugin_SetMargins(webView, ml, mt, mr, mb, r);
 #elif UNITY_ANDROID
-        webView.Call("SetMargins", (int)ml, (int)mt, (int)mr, 10); //(int)mb
+        webView.Call("SetMargins", 0, (int)mt, (int)mr, 10); //(int)ml, (int)mb
 #endif
     }
 

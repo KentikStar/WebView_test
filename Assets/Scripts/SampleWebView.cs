@@ -197,31 +197,45 @@ public class SampleWebView : MonoBehaviour
         yield break;
     }
 
+    public void BackUrl(){
+        GUI.enabled = webViewObject.CanGoBack();
+        webViewObject.GoBack();
+        GUI.enabled = true;
+    }
+
+    public void ForwardUrl(){
+        GUI.enabled = webViewObject.CanGoForward();
+        webViewObject.GoForward();        
+        GUI.enabled = true;
+    }
+
+
+
     void OnGUI()
     {
-        var x = 10;
+        // var x = 10;
 
-        GUI.enabled = webViewObject.CanGoBack();
-        if (GUI.Button(new Rect(x, 10, 80, 80), "<")) {
-            webViewObject.GoBack();
-        }
-        GUI.enabled = true;
-        x += 90;
+        // GUI.enabled = webViewObject.CanGoBack();
+        // if (GUI.Button(new Rect(x, 10, 80, 80), "<")) {
+        //     webViewObject.GoBack();
+        // }
+        // GUI.enabled = true;
+        // x += 90;
 
-        GUI.enabled = webViewObject.CanGoForward();
-        if (GUI.Button(new Rect(x, 10, 80, 80), ">")) {
-            webViewObject.GoForward();
-        }
-        GUI.enabled = true;
-        x += 90;
+        // GUI.enabled = webViewObject.CanGoForward();
+        // if (GUI.Button(new Rect(x, 10, 80, 80), ">")) {
+        //     webViewObject.GoForward();
+        // }
+        // GUI.enabled = true;
+        // x += 90;
 
-        if (GUI.Button(new Rect(x, 10, 80, 80), "r")) {
-            webViewObject.Reload();
-        }
-        x += 90;
+        // if (GUI.Button(new Rect(x, 10, 80, 80), "r")) {
+        //     webViewObject.Reload();
+        // }
+        // x += 90;
 
-        GUI.TextField(new Rect(x, 10, 180, 80), "" + webViewObject.Progress());
-        x += 190;
+        // GUI.TextField(new Rect(x, 10, 180, 80), "" + webViewObject.Progress());
+        // x += 190;
 
         // if (GUI.Button(new Rect(x, 10, 80, 80), "*")) {
         //     var g = GameObject.Find("WebViewObject");
