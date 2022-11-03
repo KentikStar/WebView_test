@@ -10,18 +10,13 @@ public class SpawnTetromino : MonoBehaviour
     public void IninTetr(){
         int rnd = Random.Range(0, tetrominoArr.Length);
 
-        Instantiate(tetrominoArr[rnd], transform.position, Quaternion.identity);
+        Instantiate(tetrominoArr[rnd], transform.position, Quaternion.identity, transform);
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        IninTetr();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public void ClearChild(){
+        foreach(Transform children in transform)
+        {
+            Destroy(children.gameObject);
+        }
     }
 }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-el\\values-el.xml",
+            "outputFile": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-el\\values-el.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\2fe805d0724c6f9ee6d19b9f01d50392\\jetified-play-services-base-18.1.0\\res\\values-el\\values.xml",

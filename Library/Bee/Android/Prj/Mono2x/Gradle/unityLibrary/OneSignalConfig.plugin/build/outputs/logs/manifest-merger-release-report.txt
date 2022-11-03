@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:1-10:12
 	package
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:7:5-41
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:7:5-41
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:9:5-30
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:9:5-30
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:11-69
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:6:11-69
 	android:versionCode
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:8:5-28
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml:8:5-28
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 uses-sdk
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		ADDED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
-		INJECTED from D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		ADDED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+		INJECTED from D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml

@@ -10,8 +10,8 @@
 10
 11    <uses-sdk
 12        android:minSdkVersion="1"
-12-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+12-->D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 13        android:targetSdkVersion="10" />
-13-->D:\Work\Unity\Kursik_test\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
+13-->D:\New Tetris\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\OneSignalConfig.plugin\AndroidManifest.xml
 14
 15</manifest>

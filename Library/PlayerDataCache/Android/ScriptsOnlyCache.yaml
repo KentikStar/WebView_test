@@ -5,6 +5,9 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - LoginInspector
     - SampleWebView
+    - SpawnTetromino
+    - TetrisBlock
+    - UIController
     - test
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -93,6 +96,12 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: SampleWebView
     methodName: BackUrl
+  - assembly: Assembly-CSharp
+    fullTypeName: UIController
+    methodName: ExitGame
+  - assembly: Assembly-CSharp
+    fullTypeName: UIController
+    methodName: StartGame
   sceneClasses:
     Assets/Scenes/PlugScene.unity:
     - Class: 1
@@ -101,15 +110,55 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1706}
+    - Class: 114
+      Script: {instanceID: 2978}
+    - Class: 114
+      Script: {instanceID: 3246}
+    - Class: 114
+      Script: {instanceID: 3624}
+    - Class: 114
+      Script: {instanceID: 5650}
+    - Class: 114
+      Script: {instanceID: 5942}
+    - Class: 114
+      Script: {instanceID: 6246}
+    - Class: 114
+      Script: {instanceID: 6996}
+    - Class: 114
+      Script: {instanceID: 7046}
+    - Class: 114
+      Script: {instanceID: 7210}
+    - Class: 114
+      Script: {instanceID: 7638}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/StartScene.unity:
     - Class: 1
@@ -145,17 +194,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3246}
     - Class: 114
-      Script: {instanceID: 4948}
+      Script: {instanceID: 4950}
     - Class: 114
-      Script: {instanceID: 5298}
+      Script: {instanceID: 5300}
     - Class: 114
-      Script: {instanceID: 6240}
+      Script: {instanceID: 6246}
     - Class: 114
-      Script: {instanceID: 6990}
+      Script: {instanceID: 6996}
     - Class: 114
-      Script: {instanceID: 7630}
+      Script: {instanceID: 7638}
     - Class: 114
-      Script: {instanceID: 8152}
+      Script: {instanceID: 8160}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -204,15 +253,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 6240}
+      Script: {instanceID: 6246}
     - Class: 114
-      Script: {instanceID: 6990}
+      Script: {instanceID: 6996}
     - Class: 114
-      Script: {instanceID: 7202}
+      Script: {instanceID: 7210}
     - Class: 114
-      Script: {instanceID: 7630}
+      Script: {instanceID: 7638}
     - Class: 114
-      Script: {instanceID: 8306}
+      Script: {instanceID: 8314}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -612,6 +661,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerExitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SaveSerial
+  - hash:
+      serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -726,6 +781,12 @@ ScriptsOnlyBuild:
     className: BufferManager
   - hash:
       serializedVersion: 2
+      Hash: d90327c6338470620028fdb54b4597a5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TetrisBlock
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -766,6 +827,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 12a25dc6c96d7c61255896d4241bcacc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIController
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -874,6 +941,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 1e15a37c21d6e8f6e1a1c8776c54086d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpawnTetromino
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1204,12 +1277,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SaveSerial
   platform: 13
   scenePathNames:
   - Assets/Scenes/StartScene.unity

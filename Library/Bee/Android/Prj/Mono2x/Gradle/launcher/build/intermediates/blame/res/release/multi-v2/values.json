@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\39c47372d5728d9bd74034b6d9477e39\\work-runtime-2.7.1\\res\\values\\values.xml",
@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\FirebaseApp.androidlib\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,716",
-                        "endColumns": "143,81,103,108,119,101,78",
-                        "endOffsets": "194,276,380,489,609,711,790"
-                    },
-                    "to": {
-                        "startLines": "354,360,361,362,363,364,369",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "24171,24680,24762,24866,24975,25095,25692",
-                        "endColumns": "143,81,103,108,119,101,78",
-                        "endOffsets": "24310,24757,24861,24970,25090,25192,25766"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\1250882cbcc7c8612a5eb6f51d663ec3\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -52,6 +35,42 @@
                         "startOffsets": "18925",
                         "endColumns": "42",
                         "endOffsets": "18963"
+                    }
+                },
+                {
+                    "source": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
+                    },
+                    "to": {
+                        "startLines": "289,301,302,303,304,305",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "18847,19517,19574,19630,19679,19725",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "18888,19569,19625,19674,19720,19767"
+                    }
+                },
+                {
+                    "source": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "1468,1813,1816",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "96930,123421,123559",
+                        "endLines": "1469,1815,1819",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "97025,123554,123781"
                     }
                 },
                 {
@@ -146,20 +165,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,101,158,214,263,309",
-                        "endColumns": "45,56,55,48,45,46",
-                        "endOffsets": "96,153,209,258,304,351"
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,103",
+                        "endColumns": "46,65",
+                        "endOffsets": "99,166"
                     },
                     "to": {
-                        "startLines": "289,301,302,303,304,305",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "18847,19517,19574,19630,19679,19725",
-                        "endColumns": "45,56,55,48,45,46",
-                        "endOffsets": "18888,19569,19625,19674,19720,19767"
+                        "startLines": "334,359",
+                        "startColumns": "4,4",
+                        "startOffsets": "21721,24612",
+                        "endColumns": "48,67",
+                        "endOffsets": "21765,24675"
                     }
                 },
                 {
@@ -237,23 +256,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,103",
-                        "endColumns": "46,65",
-                        "endOffsets": "99,166"
-                    },
-                    "to": {
-                        "startLines": "334,359",
-                        "startColumns": "4,4",
-                        "startOffsets": "21721,24612",
-                        "endColumns": "48,67",
-                        "endOffsets": "21765,24675"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\2fe805d0724c6f9ee6d19b9f01d50392\\jetified-play-services-base-18.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -307,25 +309,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
-                    },
-                    "to": {
-                        "startLines": "1468,1813,1816",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "96930,123421,123559",
-                        "endLines": "1469,1815,1819",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "97025,123554,123781"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\dae4d6ab41d2d582b03ac5a214336f6a\\jetified-play-services-basement-18.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -340,6 +323,23 @@
                         "startOffsets": "19379,22810",
                         "endColumns": "67,166",
                         "endOffsets": "19442,22972"
+                    }
+                },
+                {
+                    "source": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\FirebaseApp.androidlib\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,716",
+                        "endColumns": "143,81,103,108,119,101,78",
+                        "endOffsets": "194,276,380,489,609,711,790"
+                    },
+                    "to": {
+                        "startLines": "354,360,361,362,363,364,369",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "24171,24680,24762,24866,24975,25095,25692",
+                        "endColumns": "143,81,103,108,119,101,78",
+                        "endOffsets": "24310,24757,24861,24970,25090,25192,25766"
                     }
                 },
                 {

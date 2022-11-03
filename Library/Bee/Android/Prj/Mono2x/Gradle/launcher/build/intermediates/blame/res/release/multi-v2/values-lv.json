@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\Unity\\Kursik_test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lv\\values-lv.xml",
+            "outputFile": "D:\\New Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lv\\values-lv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenti\\.gradle\\caches\\transforms-2\\files-2.1\\b7c1f34488effdb5021a0e0e065a8e81\\jetified-firebase-messaging-22.0.0\\res\\values-lv\\values.xml",

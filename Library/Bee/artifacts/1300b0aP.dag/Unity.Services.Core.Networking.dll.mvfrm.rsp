@@ -1,6 +1,12 @@
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Internal.ref.dll_BF666932C0B27755.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_FF91F9BC6398EB7C.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_AFC2E85BC2EDBC0B.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.dll_477AD8CAEC6DC1DA.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Mdb.dll_3F8009D2032DAB97.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Pdb.dll_56D2824181E2AD1A.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Rocks.dll_D230C44769E7347A.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Burst.Unsafe.dll_F61E6DD16FC05699.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_BAF0B477B59134E1.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AccessibilityModule.dll_7796425E7C8ABFCB.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AIModule.dll_F9A0EA982F6EE6BF.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AndroidJNIModule.dll_106B1BE9AE1A0BFD.mvfrm
@@ -64,9 +70,3 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.VideoModule.dll_24008C7FFFC7DC08.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.VRModule.dll_47E6AF4B2D7071E3.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_4233247E76F20D5F.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_7AA5724FB6AABF41.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.dll_BA3CB7A920F3CE47.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Mdb.dll_658DD97FEB5AEB44.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Pdb.dll_7CE051EF6A0FECC7.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Cecil.Rocks.dll_827684240B99DBC7.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Burst.Unsafe.dll_358FD75819AE7D1C.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_8F2918C82D4211A4.mvfrm
